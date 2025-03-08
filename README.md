@@ -51,7 +51,7 @@ Vite Cart is a simple e-commerce application built with React and Vite. It allow
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/your-username/vite-cart.git
+git clone https://github.com/BruceGoodGuy/vite-cart.git
 cd vite-cart
 ```
 
@@ -67,7 +67,7 @@ npm install
 npm run dev
 ```
 
-4. Open your browser and navigate to `http://localhost:3000`.
+4. Open your browser and navigate to `http://localhost:5173`.
 
 ## Usage
 
